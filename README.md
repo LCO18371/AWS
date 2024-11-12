@@ -24,6 +24,6 @@ Each task folder contains:
 ### Prerequisites
 - AWS Account with necessary permissions (S3, Lambda, etc.).
 - IAM roles set up for accessing specific AWS services.
-
+end
 ## License
 This repository is licensed under the MIT License.
